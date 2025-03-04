@@ -1,0 +1,56 @@
+				1. indicator that player is getting dmg, red overlay / border
+ 
+ 				2. when an entity is hurt, make it jump backwards a bit 
+ 
+ 				3. add the shark
+ 
+ 				4. add all the other level VFX: water, trees, grass, boat, rain
+ 
+ 				5. add the communication VFX
+ 
+ 				6. functioning level select menu
+    
+8. levels:
+				build tutorial
+			 	build level 1
+ 				build level 2
+	build level 3
+	build level 4
+	build level 5
+	build level 6
+	build level 7
+	build level 8
+ 
+ 9. editor:
+ 					checks for possible placement
+ 					visually pleasing buttons (correct image format)
+ 					saving the level to a file
+ 					insert correct ground image
+ 					make objects of buttons rotatable via r key to place different potions, containers, trees etc.
+ 					do not always load everything from scratch, only modify the necessary ArrayLists
+ 					be able to edit startpos
+ 					coins
+ 	ship should disappear after placing ground beneith it
+ 	real save of the level without having to reload the project
+ 	
+ 				10. hp bar over enemies
+ 
+ 				11. more soundeffects
+ 
+ 12. game completed menu and credits
+ 
+ 13. level info/missions
+ 
+ 				14. coin system
+ 
+ 				15. title for the game
+ 
+ 				16. physics for water
+ 
+ 				17. make the game harder, player should not be able to spam kill enemies -> more cd on attack
+ 
+ 				18. options schrift weniger pixel
+ 
+ 19. fix songs 
+ 
+ 
